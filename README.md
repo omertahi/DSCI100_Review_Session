@@ -1,3 +1,15 @@
+## About the Study Materials
+
+The notes in this repository cover a wide range of topics within Statistics and Data Science, following the syllabus of UBC's DSCI 100, STAT 201, and STAT 301 courses. They are structured to provide a comprehensive understanding of each topic and include:
+
+- Detailed explanations of concepts
+- Examples with solutions
+- Practice problems
+- Tips for exam preparation
+
+These materials can serve as a valuable resource for revision and self-study.
+
+
 # Tutoring Services by Omer
 
 
