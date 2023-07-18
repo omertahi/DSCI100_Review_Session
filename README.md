@@ -13,8 +13,6 @@ These materials can serve as a valuable resource for revision and self-study.
 
 # Tutoring Services
 
-## About My Tutoring Service
-
 I offer personalized tutoring services in Statistics and Data Science. With my experience in instructing over 400 students at UBC and authoring study materials, I aim to provide tailored lessons that cater to individual learning needs. My services are perfect for anyone struggling with concepts in Statistics or Data Science or those looking to improve their understanding and scores.
 
 ### Courses I Tutor 
