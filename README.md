@@ -1,6 +1,3 @@
-# Tutoring Services
-
-
 Hello, I'm Omer, a fresh graduate from the University of British Columbia with a Bachelor of Science degree in Statistics. During my time at UBC, I was the Vice President of Events at the Undergraduate Statistics Society and was responsible for conducting the data science workshops and producing detailed notes for DSCI 100: Introduction to Data Science. 
 
 ## About the Study Materials
@@ -13,6 +10,8 @@ The notes in this repository cover a wide range of topics within Statistics and 
 - Tips for exam preparation
 
 These materials can serve as a valuable resource for revision and self-study.
+
+# Tutoring Services
 
 ## About My Tutoring Service
 
