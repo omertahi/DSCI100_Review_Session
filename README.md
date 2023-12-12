@@ -18,6 +18,7 @@ I offer personalized tutoring services in Statistics and Data Science. With my e
 ### Courses I Tutor 
 
 - DSCI 100
+- STAT 200
 - STAT 201
 - STAT 301
 
@@ -29,6 +30,7 @@ I offer personalized tutoring services in Statistics and Data Science. With my e
 - Preparation for midterms and finals
 - Access to a complete set of notes for the entire STAT 201 syllabus
 - Upcoming access to a complete set of notes for the STAT 301 syllabus (currently being finalized)
+- Upcoming access to a complete set of notes for the STAT 200 syllabus (currently being finalized)
 
 
 ## How to Contact Me
